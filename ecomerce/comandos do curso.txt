@@ -1,0 +1,18 @@
+Acessar a pasta para exectar o mongoDb:
+cd C:\Program Files\MongoDB\Server\3.6\bin>
+
+Executar o servidor mongoDb:
+mongod.exe
+
+Abrir o mongo, codigo digitado dentro da mesma pasta anterior: 
+mongo.exe
+
+Abrir e criar um banco:
+use banco
+
+Visualizar coleções ou tabelas:
+show collections
+
+Como criar uma coluna da tabe inserindo e criando uma linha da tabela:
+db.usuarios.insert({"id" :1})
+
