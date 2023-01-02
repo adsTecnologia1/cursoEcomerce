@@ -1,5 +1,5 @@
 Acessar a pasta para exectar o mongoDb:
-cd C:\Program Files\MongoDB\Server\3.6\bin>
+cd C:\Program Files\MongoDB\Server\3.6\bin
 
 Executar o servidor mongoDb:
 mongod.exe
